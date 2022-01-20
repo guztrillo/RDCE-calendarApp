@@ -6,10 +6,6 @@ This is the frontend repository.
 
 ## Overview
 
-### Links
-
-- Live Site URL: [Calendar App](https://guztrillo.github.io/TFM-FAQ-accordion-card/)
-
 ## My process
 
 ### Built with
